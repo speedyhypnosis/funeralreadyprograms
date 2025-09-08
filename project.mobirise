@@ -753,7 +753,7 @@
               "margin-top": "auto !important"
             },
             ".mbr-section-title": {
-              "color": "#232323"
+              "color": "#1c3f5f"
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left"
@@ -815,6 +815,9 @@
             },
             ".row": {
               "justify-content": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#1c3f5f"
             }
           },
           "_name": "features1",
@@ -1003,7 +1006,8 @@
               }
             },
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#1c3f5f"
             }
           },
           "_name": "content9",
