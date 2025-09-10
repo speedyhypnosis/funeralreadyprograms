@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Funeral Ready Programs",
-    "currentPage": "legal-information.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -52,12 +52,12 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "favicon": "@PROJECT_PATH@/assets/images/funeral-ready-programs-l1_1.png",
-    "mbrsiteDomain": "uqewujjtd0",
+    "mbrsiteDomain": "i7ltkbifal",
     "imageResize": false,
     "usedWebp": true,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://funeralready.com/sitemap.xml",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
