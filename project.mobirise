@@ -88,7 +88,7 @@
       "settings": {
         "main": true,
         "title": "Funeral Ready - Custom Memorial Programs Created in 48 Hours",
-        "meta_descr": "Professional funeral program design service. We create dignified memorial programs within 48 hours when time is limited. $125 complete package includes custom design, revisions, and multiple formats.",
+        "meta_descr": "Professional funeral programs in 48 hours. $125 complete package: custom design, revisions, print-ready files. Dignified memorial programs when time is limited.",
         "header_custom": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta property=\"og:title\" content=\"Funeral Ready - Custom Memorial Programs Created in 48 Hours\">\n<meta property=\"og:description\" content=\"Professional funeral program design service. We create dignified memorial programs within 48 hours when time is limited.\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:url\" content=\"https://funeralready.com\">\n<meta name=\"geo.region\" content=\"US-WA\">\n<meta name=\"geo.placename\" content=\"Seattle\">\n<script src=\"https://tally.so/widgets/embed.js\"></script>",
         "footer_custom": "<script>\n  Tally.loadEmbeds();\n</script>",
         "html_before": "",
