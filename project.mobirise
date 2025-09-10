@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Funeral Ready Programs",
-    "currentPage": "index.html",
+    "currentPage": "legal-information.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -89,7 +89,7 @@
         "main": true,
         "title": "Funeral Ready - Custom Memorial Programs Created in 48 Hours",
         "meta_descr": "Professional funeral programs in 48 hours. $125 complete package: custom design, revisions, print-ready files. Dignified memorial programs when time is limited.",
-        "header_custom": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta property=\"og:title\" content=\"Funeral Ready - Custom Memorial Programs Created in 48 Hours\">\n<meta property=\"og:description\" content=\"Professional funeral program design service. We create dignified memorial programs within 48 hours when time is limited.\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:url\" content=\"https://funeralready.com\">\n<meta name=\"geo.region\" content=\"US-WA\">\n<meta name=\"geo.placename\" content=\"Seattle\">\n<link rel=\"canonical\" href=\"https://funeralready.com\">\n\n<script src=\"https://tally.so/widgets/embed.js\"></script>",
+        "header_custom": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta property=\"og:title\" content=\"Funeral Ready - Custom Memorial Programs Created in 48 Hours\">\n<meta property=\"og:description\" content=\"Professional funeral program design service. We create dignified memorial programs within 48 hours when time is limited.\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:url\" content=\"https://funeralready.com\">\n<meta name=\"geo.region\" content=\"US-WA\">\n<meta name=\"geo.placename\" content=\"Seattle\">\n<link rel=\"canonical\" href=\"https://funeralready.com\">\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Funeral Ready\",\n  \"description\": \"Professional funeral program design service. We create dignified memorial programs within 48 hours when time is limited.\",\n  \"url\": \"https://funeralready.com\",\n  \"telephone\": \"206-552-0533\",\n  \"email\": \"admin@funeralready.com\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"addressLocality\": \"Seattle\",\n    \"addressRegion\": \"WA\",\n    \"addressCountry\": \"US\"\n  },\n  \"areaServed\": {\n    \"@type\": \"State\",\n    \"name\": \"Washington\"\n  },\n  \"serviceType\": \"Memorial Program Design\",\n  \"priceRange\": \"$125\"\n}\n</script>\n\n<script src=\"https://tally.so/widgets/embed.js\"></script>",
         "footer_custom": "<script>\n  Tally.loadEmbeds();\n</script>",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/funeral-ready-custom-programs-social-media-september-2025-s1.png"
@@ -1239,7 +1239,7 @@
         "title": "Privacy Policy - FuneralReady.com | Memorial Program Design Services",
         "order": "1",
         "meta_descr": "FuneralReady.com privacy policy outlines how we protect your personal information and memorial content when creating custom funeral programs. GDPR and CCPA compliant with secure data handling.",
-        "header_custom": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta property=\"og:title\" content=\"Privacy Policy - FuneralReady.com | Memorial Program Design Services\">\n<meta property=\"og:description\" content=\"FuneralReady.com privacy policy outlines how we protect your personal information and memorial content when creating custom funeral programs. GDPR and CCPA compliant.\">\n<meta property=\"og:type\" content=\"article\">\n<meta property=\"og:url\" content=\"https://funeralready.com/privacy-policy\">\n<link rel=\"canonical\" href=\"https://funeralready.com/privacy-policy\">",
+        "header_custom": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta property=\"og:title\" content=\"Privacy Policy - FuneralReady.com | Memorial Program Design Services\">\n<meta property=\"og:description\" content=\"FuneralReady.com privacy policy outlines how we protect your personal information and memorial content when creating custom funeral programs. GDPR and CCPA compliant.\">\n<meta property=\"og:type\" content=\"article\">\n<meta property=\"og:url\" content=\"https://funeralready.com/privacy-policy\">\n<link rel=\"canonical\" href=\"https://funeralready.com/privacy-policy\">\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebPage\",\n  \"name\": \"Legal Information - Funeral Ready\",\n  \"description\": \"Terms of service, privacy policy, and legal information for Funeral Ready memorial program design services\",\n  \"url\": \"https://funeralready.com/legal-information.html\"\n}\n</script>",
         "socialSharingUrl": "",
         "meta_image": "@PROJECT_PATH@/assets/images/funeral-ready-custom-programs-social-media-september-2025-s1.png"
       },
