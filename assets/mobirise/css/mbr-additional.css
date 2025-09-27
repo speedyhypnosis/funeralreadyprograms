@@ -2495,28 +2495,22 @@ a {
     left: -1rem;
   }
 }
-.cid-uXQlIJcYma {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+#custom-html-2a {
+  /* Type valid CSS here */
+}
+#custom-html-2a div {
+  padding: 20px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-2a p {
+  font-size: 60px;
+  color: #777;
+}
+.cid-uXX9H2ae6q {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
-}
-.cid-uXQlIJcYma .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uXQlIJcYma .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uXQlIJcYma .mbr-section-subtitle {
-  text-align: left;
-}
-.cid-uXQlIJcYma .mbr-section-subtitle DIV {
-  text-align: left;
 }
 .cid-tDnrWT4ReM {
   padding-top: 2rem;
