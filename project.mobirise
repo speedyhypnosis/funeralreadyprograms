@@ -52,7 +52,7 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "favicon": "@PROJECT_PATH@/assets/images/funeral-ready-programs-l1_2.png",
-    "mbrsiteDomain": "6umawjr7i1",
+    "mbrsiteDomain": "3kcjnwjpe8",
     "imageResize": false,
     "usedWebp": false,
     "sitemapSwitcher": true,
@@ -82,7 +82,7 @@
     "versionPublish": "6.0.6",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-54HXXCRWW7\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-54HXXCRWW7');\n</script>",
-    "cssOptimize": false,
+    "cssOptimize": true,
     "lazyLoad": true
   },
   "pages": {
